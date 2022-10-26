@@ -1,6 +1,8 @@
 # Microservices
 Two simple Microservices API's With RabbitMQ with MassTransit 
 
+Each Service has it's own branch
+
 
 <p align="center">
   <kbd>
