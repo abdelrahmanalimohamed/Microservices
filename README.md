@@ -1,5 +1,7 @@
 # Microservices
-Two simple Microservices API's With RabbitMQ with MassTransit 
+Two simple dotnet 6 Microservices API's Using RabbitMQ Message Broker With MassTransit
+
+Interact with each other by using Ocelot API Gateway For Microservices
 
 Each Service has it's own branch
 
